@@ -1,2 +1,2 @@
-# Ideas-proyecto.
+# Ideas proyecto.
 Proyecto de matemáticas discretas,
