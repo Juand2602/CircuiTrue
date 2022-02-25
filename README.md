@@ -5,3 +5,9 @@ El proyecto se realizará en distintas fases haremos uso de Google Colaboratory 
 
 Al finalizar de nuestro proyecto queremos haber podido contemplar todas las posibilidades con las que se puede trabajar en lo que a circuitos lógicos se refiere, también plantear un programa y la mejor versión del algoritmo para que sea funcional y como objetivo principal es que los estudiantes de próximos cursos de matemáticas discretas puedan hacer uso de este código para verificar sus circuitos y puedan entender un poco mejor cómo funcionan las sentencias lógicas enfocadas a circuitos.
 
+# Objetivo
+El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con mas de 3 entradas para no tener que hacer la tediosa tarea de calcularlos a mano y simplificar el tiempo de calculo para estos.
+
+# Conjuntos y estrategias de datos utilizados
+La salida de los circuitos tomará valores entre 0 y 1 para simular falso y verdadero respectivamente, tambien se usarán clases y funciones para posteriormente utilizarlas en las operaciones lógicas segun corresponda el circuito. Gracias a la lógica booleana podemos simplificar estos circuitos cuando los desarrollamos manualmente y ahora con esta herramienta se puede acortar el tiempo de realización de estos circuitos logicos
+
