@@ -11,5 +11,6 @@ El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con 
 ## Video-Resumen.
 
 ## Solucion.
+https://youtu.be/0kmlwb2GI3Q
 
 [CircuiTrue.pdf](https://github.com/Juand2602/CircuiTrue/files/8194446/CircuiTrue.pdf)
