@@ -13,4 +13,4 @@ https://youtu.be/0kmlwb2GI3Q
 
 
 ## Solucion.
-[CircuiTrue.pdf](https://github.com/Juand2602/CircuiTrue/files/8194446/CircuiTrue.pdf)
+
