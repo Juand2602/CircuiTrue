@@ -8,5 +8,6 @@ Establecer los valores de verdad para cualquier circuito digital.
 
 El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con 3 entradas para no tener que hacer la tediosa tarea de calcularlos a mano y simplificar el tiempo de calculo para estos.
 
-#Solucion.
+## Solucion.
+
 [CircuiTrue.pdf](https://github.com/Juand2602/CircuiTrue/files/8194446/CircuiTrue.pdf)
