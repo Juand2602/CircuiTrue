@@ -6,6 +6,3 @@ Establecer los valores de verdad para cualquier circuito digital.
 
 El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con 3 entradas para no tener que hacer la tediosa tarea de calcularlos a mano y simplificar el tiempo de calculo para estos.
 
-
-# Conjuntos y estrategias de datos utilizados
-La salida de los circuitos tomará valores entre 0 y 1 para simular falso y verdadero respectivamente y luego se convertirá el tipo de la variable ya que nos interesa una impresión en términos de verdadero ("True") o falso ("False"), también se usarán clases y funciones para posteriormente utilizarlas en las operaciones lógicas según corresponda el circuito. Gracias a la lógica booleana podemos simplificar estos circuitos cuando los desarrollamos manualmente y ahora con esta herramienta se puede acortar el tiempo de realización de las operaciones lógicas dependiendo del circuito que se quiera resolver.
