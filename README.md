@@ -4,9 +4,10 @@ Se han resuelto y planteado distintos tipos de circuitos lógicos y se han cread
 # Objetivo
 Establecer los valores de verdad para cualquier circuito digital.
 
-El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con mas de 2 entradas para no tener que hacer la tediosa tarea de calcularlos a mano y simplificar el tiempo de calculo para estos.
+El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con 3 entradas para no tener que hacer la tediosa tarea de calcularlos a mano y simplificar el tiempo de calculo para estos.
 
 
 # Conjuntos y estrategias de datos utilizados
 La salida de los circuitos tomará valores entre 0 y 1 para simular falso y verdadero respectivamente y luego se convertirá el tipo de la variable ya que nos interesa una impresión en términos de verdadero ("True") o falso ("False"), tambien se usarán clases y funciones para posteriormente utilizarlas en las operaciones lógicas segun corresponda el circuito. Gracias a la lógica booleana podemos simplificar estos circuitos cuando los desarrollamos manualmente y ahora con esta herramienta se puede acortar el tiempo de realización de estos circuitos logicos
 
+3
