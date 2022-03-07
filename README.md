@@ -8,6 +8,4 @@ El objetivo del proyecto es lograr la correcta salida de circuitos lógicos con 
 
 
 # Conjuntos y estrategias de datos utilizados
-La salida de los circuitos tomará valores entre 0 y 1 para simular falso y verdadero respectivamente y luego se convertirá el tipo de la variable ya que nos interesa una impresión en términos de verdadero ("True") o falso ("False"), tambien se usarán clases y funciones para posteriormente utilizarlas en las operaciones lógicas segun corresponda el circuito. Gracias a la lógica booleana podemos simplificar estos circuitos cuando los desarrollamos manualmente y ahora con esta herramienta se puede acortar el tiempo de realización de estos circuitos logicos
-
-3
+La salida de los circuitos tomará valores entre 0 y 1 para simular falso y verdadero respectivamente y luego se convertirá el tipo de la variable ya que nos interesa una impresión en términos de verdadero ("True") o falso ("False"), también se usarán clases y funciones para posteriormente utilizarlas en las operaciones lógicas según corresponda el circuito. Gracias a la lógica booleana podemos simplificar estos circuitos cuando los desarrollamos manualmente y ahora con esta herramienta se puede acortar el tiempo de realización de las operaciones lógicas dependiendo del circuito que se quiera resolver.
