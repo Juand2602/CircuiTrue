@@ -16,7 +16,7 @@ https://youtu.be/0kmlwb2GI3Q
 [CircuiTrue (1).pdf](https://github.com/Juand2602/CircuiTrue/files/8194791/CircuiTrue.1.pdf)
 
 ## Referencias.
--https://programacion.net/articulo/como_funcionan_las_clases_y_objetos_en_python_1505
--https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/ 
--https://recursospython.com/guias-y-manuales/booleanos-operaciones-logicas-y-binarias/
+https://programacion.net/articulo/como_funcionan_las_clases_y_objetos_en_python_1505
+https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/ 
+https://recursospython.com/guias-y-manuales/booleanos-operaciones-logicas-y-binarias/
 
