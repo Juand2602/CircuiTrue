@@ -1,5 +1,3 @@
-![Captura de pantalla 2022-03-06 214309](https://user-images.githubusercontent.com/94081346/156958851-9dd38f46-64fe-4891-acae-cd95f3cc7e03.png)
-
 ![Captura de pantalla 2022-03-08 085444](https://user-images.githubusercontent.com/94081346/157251849-57838d60-e7b3-4d42-843f-b5a23658e462.jpg)
 
 
