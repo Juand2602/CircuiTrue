@@ -17,5 +17,5 @@ https://youtu.be/0kmlwb2GI3Q
 
 ## Referencias.
 https://programacion.net/articulo/como_funcionan_las_clases_y_objetos_en_python_1505
-https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/
-https://recursospython.com/guias-y-manuales/booleanos-operaciones-logicas-y-binarias/
+https://www.freecodecamp.org/espanol/news/operadores-basicos-en-python-con-ejemplos/ 
+https://recursospython.com/guias-y-manuales/booleanos-operaciones-logicas-y-binarias/ 
