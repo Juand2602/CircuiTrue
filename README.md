@@ -11,7 +11,7 @@ Lograr la correcta salida de algunos casos clave de circuitos lógicos con 2,3 y
 https://youtu.be/0kmlwb2GI3Q
 
 ## Solucion.
-[CircuiTrue (1).pdf](https://github.com/Juand2602/CircuiTrue/files/8194791/CircuiTrue.1.pdf)
+[CircuiTrue°.pdf](https://github.com/Juand2602/CircuiTrue/files/8250182/CircuiTrue.pdf)
 
 ## Referencias.
 https://programacion.net/articulo/como_funcionan_las_clases_y_objetos_en_python_1505
